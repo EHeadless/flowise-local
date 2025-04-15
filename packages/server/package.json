@@ -87,6 +87,7 @@
         "express-basic-auth": "^1.2.1",
         "express-rate-limit": "^6.9.0",
         "flowise-components": "workspace:^",
+        "flowise-nim-container-manager": "^1.0.11",
         "flowise-ui": "workspace:^",
         "global-agent": "^3.0.0",
         "http-errors": "^2.0.0",
@@ -99,7 +100,6 @@
         "multer-cloud-storage": "^4.0.0",
         "multer-s3": "^3.0.1",
         "mysql2": "^3.11.3",
-        "flowise-nim-container-manager": "^1.0.11",
         "openai": "^4.82.0",
         "pg": "^8.11.1",
         "posthog-node": "^3.5.0",
@@ -128,7 +128,7 @@
         "run-script-os": "^1.1.6",
         "shx": "^0.3.3",
         "start-server-and-test": "^2.0.3",
-        "ts-node": "^10.7.0",
+        "ts-node": "^10.9.2",
         "tsc-watch": "^6.0.4",
         "typescript": "^5.4.5"
     }
